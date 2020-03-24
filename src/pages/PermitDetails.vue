@@ -11,10 +11,10 @@
             <dl title="PERMIT DETAILS">
               <dt>Permit Number</dt>
               <dd>{{ permit.PERMITNUMBER}}</dd>
-              <dt>Application Type</dt>
-              <dd>{{ permit.APPLICATIONTYPE }}</dd>
               <dt>Permit Type</dt>
               <dd>{{ permit.PERMITTYPE }}</dd>
+              <dt>Type of Work</dt>
+              <dd>{{ permit.TYPEOFWORK }}</dd>
               <dt>Date Issued</dt>
               <dd>{{ permit.ISSUEDATE }}</dd>
             </dl>
