@@ -1,4 +1,4 @@
 module.exports = {
-  publicPath:
-    process.env.NODE_ENV === "production" ? "/li-contractor-lookup/" : "/"
+  filenameHashing: false,
+  publicPath: "/li/contractor-permit-lookup/"
 };
